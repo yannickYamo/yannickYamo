@@ -14,7 +14,7 @@ The throughline: **absorb the complexity so the person using it doesn't have to.
 #### What I'm building
 
 **[Atelier](https://github.com/yannickYamo/atelier)**
-Turn expert judgment into an AI skill you own.
+Atelier is the first system to learn and preserve an expert-owned standard as an authority-controlled target, then compile the minimum architecture needed to reproduce it reliably across repeated generation.
 
 Give it work an expert considers excellent. It infers the standards behind that work, the expert
 ratifies what's actually true, and it compiles the result into a portable skill. The expert owns what
