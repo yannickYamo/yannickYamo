@@ -1,8 +1,8 @@
 ### Yannick Maurice
 
-Product leader based  in San Francisco. I started as a semiconductor engineer designing motor control and
+Product leader based in San Francisco. I started as a semiconductor engineer designing motor control and
 power electronic systems. Everything since has been building things where the hard part isn't the technology.
-It's making the it disappear and delight the users. 
+It's making it disappear, and delighting the users.
 
 From LiDAR traffic intelligent safety infrastructure, to ML for battery analytics, Mobile EV charging, Grid orchestration for
 distributed energy, space awareness and network management for contained sovereign environments. Now AI systems for strategic work.
@@ -29,8 +29,13 @@ standard it reproduces.
 AI skills for Claude Code. Product marketing, strategy, GTM.
 
 **StratOS** *(private)*
-A product and GTM operating system. 39 skills, a validation pipeline, and a governance layer that makes
-sure the standard a skill claims to serve is the one the model actually receives.
+A strategy operating system for early-stage teams.
+
+Founders, PMs and PMMs make the same high-stakes calls with far too little evidence. Who is this for.
+What do we say. What do we charge. What do we build next. StratOS produces the strategic work behind
+those decisions, from positioning and pricing to PMF diagnosis and GTM motion, then tracks whether the
+bets you made are still true as the company moves. What used to take a quarter and an outside
+consultant takes an afternoon.
 
 ---
 
