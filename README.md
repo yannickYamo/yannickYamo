@@ -8,7 +8,7 @@ I'm a product leader in San Francisco, technical across hardware, software and i
 
 **[skills](https://github.com/yannickYamo/skills)** are AI skills for Claude Code: product marketing, strategy, GTM.
 
-**StratOS** (private) is a strategy operating system for early-stage teams. Founders, PMs and PMMs make the same high-stakes calls with far too little evidence: who is this for, what do we say, what do we charge, what do we build next. StratOS produces the strategic work behind those decisions - positioning, pricing, PMF diagnosis, GTM motion - then tracks whether your bets are still true as the company moves. A quarter and an outside consultant becomes an afternoon.
+**StratOS** (private) is a strategy operating system for early-stage teams. Founders, PMs and PMMs make the same high-stakes calls with far too little evidence: who is this for, what do we say, what do we charge, what do we build next. StratOS produces the strategic work behind those decisions - positioning, pricing, PMF diagnosis, GTM motion - then tracks whether your bets are still true as the company moves. 
 
 ## How I think
 
