@@ -16,7 +16,7 @@ The throughline: make the technology disappear, and absorb the complexity so the
 
 **[skills](https://github.com/yannickYamo/skills)** is a set of AI skills for Claude Code covering product marketing, strategy and go-to-market. You get an agent that does that work the way a senior operator would, from the first run.
 
-**[StratOS](https://getstratos.ai)** is a strategy operating system for early-stage teams that makes the calls a senior operator would, who it's for, what to say, what to charge, what to build next, and keeps them as a record your agents read before they build anything. You get decisions you can commit to on thin evidence, and the moment one of those bets stops being true, you know.
+**[StratOS](https://getstratos.ai)** helps early-stage teams decide who to sell to, what to say, what to charge and what to build next. Their agents read those decisions before building anything. Each decision spells out what would prove it wrong, and StratOS flags it when that happens.
 
 ## How I think
 
