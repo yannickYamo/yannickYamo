@@ -14,7 +14,7 @@ I built it for a failure I kept hitting: **perfect context, still variance.** Th
 
 Every study is published, failures included.
 
-**[Epitaph](https://github.com/yannickYamo/epitaph)** is an art installation about a language model losing its machine. It started on a Raspberry Pi 4: a small model lives for thirty minutes while the hardware is taken from under it, then dies and is reborn. The model never changes. Only its environment shrinks, and every loss is real. A team of AI coding agents built that version in five days while I judged the art.
+**[Epitaph](https://github.com/yannickYamo/epitaph)** is an art installation. It runs a language model on a small computer and takes the computer away from it, piece by piece, until the model dies. It started on a Raspberry Pi 4, where each life lasts thirty minutes: the machine shuts off the services around the model, its radio and its screen, then cuts its CPU and its memory, and a new model is born after each death. The model never changes. Only its environment shrinks, and every loss is real. A team of AI coding agents built that version in five days while I judged the art.
 
 Now it's moving across hardware: a 260K-parameter model on a Tufty badge, taught its voice by the Pi's model, an ESP32 edition that has lived a whole life in simulation and is next for a real board, and more boards after that.
 
