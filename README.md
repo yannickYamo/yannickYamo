@@ -8,7 +8,7 @@ The throughline: make the technology disappear, and absorb the complexity so the
 
 ## Portfolio
 
-**[Atelier](https://github.com/yannickYamo/atelier)** turns examples of work you admire, whether your own, your team's, or a style you wish you wrote in, into an AI skill with rules you approve once, then checks every output against those rules, cuts invented claims, and holds the line even when the model underneath changes. You get work in your voice, at your standard, run after run, without reading every draft.
+**[Atelier](https://github.com/yannickYamo/atelier)** turns examples of the work you want into an AI skill, with rules you approve once that no model update can move. Every output is checked against them and anything invented is cut, so you get work in your voice, run after run, without reading each draft.
 
 **[receipts](https://github.com/yannickYamo/receipts)** - a small open-source guard for agents that research the web. The rule is blunt: every claim carries a quote from a page that code fetched, or it gets cut. A model may point at evidence; only code may vouch for it. Code does the fetching, the model is allowed to quote and nothing more, then code checks the quote actually sits on the page and carries the claim's figures. A small reader model reads the claim against the full sentence on the page, and its only power is to cut. I built it because agent research keeps handing me prices, ratings and counts I can't check without redoing the work myself. The trigger: I ran a popular seven-agent sales example on its own sample request. Its card held 175 specifics and zero links. The model wrote VERIFY on its own output 23 times.
 
