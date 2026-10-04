@@ -8,7 +8,7 @@ The throughline hasn't changed. Make the technology disappear, and absorb the co
 
 ## What I'm building
 
-**[Atelier](https://github.com/yannickYamo/atelier)** turns examples of work you want reproduced into a standard you approve once, then checks every AI output against it. Point it at your own writing, your team's, or a style you admire. The standard is hashed and versioned, so no model update, optimizer or judge can change it. Invented claims get cut, not reworded, and every run ends with a pass or fail you can read before you read the draft.
+**[Atelier](https://github.com/yannickYamo/atelier)** is an agentic system that builds AI skills from examples of the work you want: your own writing, your team's, or a style you admire. Its agents propose the rules behind the examples, with evidence, and you approve them once. Then it runs every output through a check, cuts invented claims instead of rewording them, and keeps improving the skill on its own. It installs a change only when it measures better, and it can never touch a rule you approved.
 
 I built it for a failure I kept hitting: **perfect context, still variance.** The fix was to move the standard out of the model and put a person's name on it.
 
