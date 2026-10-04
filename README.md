@@ -8,9 +8,9 @@ The throughline hasn't changed. Make the technology disappear, and absorb the co
 
 ## What I'm building
 
-**[Atelier](https://github.com/yannickYamo/atelier)** is an agentic system that builds AI skills from examples of the work you want: your own writing, your team's, or a style you admire. Its agents propose the rules behind the examples, with evidence, and you approve them once. Then it runs every output through a check, cuts invented claims instead of rewording them, and keeps improving the skill on its own. It installs a change only when it measures better, and it can never touch a rule you approved.
+**[Atelier](https://github.com/yannickYamo/atelier)** is an agentic system that builds AI skills from examples of the work you want: code reviews, financial reports, blog posts, contracts, support replies. The examples can be your own, your team's, or a style you admire. Its agents propose the rules behind the examples, with evidence, and you approve them once. Then it runs every output through a check, cuts invented claims instead of rewording them, and keeps improving the skill on its own. It installs a change only when it measures better, and it can never touch a rule you approved.
 
-I built it for a failure I kept hitting: **perfect context, still variance.** The fix was to move the standard out of the model and put a person's name on it.
+I built it for a failure I kept hitting: **perfect context, still variance.** I wanted output that stays stable over time, with less entropy from one run to the next, written in the voice I chose, at scale, without anyone supervising each draft. The fix was to move the standard out of the model, where no model update can move it.
 
 Every study is published, failures included.
 
