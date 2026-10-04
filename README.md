@@ -14,11 +14,11 @@ I built it for a failure I kept hitting: **perfect context, still variance.** Th
 
 Every study is published, failures included.
 
-**[Epitaph](https://github.com/yannickYamo/epitaph)** is an art installation. A small language model lives on a Raspberry Pi for thirty minutes while the machine takes its world away: its services, its radio, its light, its screen, its CPU, its memory, and at the end its RAM. Then it dies, and after ninety seconds of dark a new one is born.
+**[Epitaph](https://github.com/yannickYamo/epitaph)** is an art installation about a language model losing its machine. It started on a Raspberry Pi 4: a small model lives for thirty minutes while the hardware is taken from under it, then dies and is reborn. The model never changes. Only its environment shrinks, and every loss is real. A team of AI coding agents built that version in five days while I judged the art.
 
-The model never changes. Only the hardware shrinks, and every loss is real. It runs offline, one life after another, and a team of AI coding agents built it in five days while I judged the art at every checkpoint.
+Now it's moving across hardware: a 260K-parameter model on a Tufty badge, taught its voice by the Pi's model, an ESP32 edition that has lived a whole life in simulation and is next for a real board, and more boards after that.
 
-The first version put the dread in the prompt, and it read as acting. Now the dread comes from the machine.
+The question moved with it. How much of what the model says comes from the model, and how much from the machine shrinking around it?
 
 **[skills](https://github.com/yannickYamo/skills)** are AI skills for Claude Code: product marketing, strategy, GTM.
 
