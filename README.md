@@ -6,7 +6,7 @@ I've worked on motor control systems, LiDAR traffic intelligence for safety infr
 
 The throughline: make the technology disappear, and absorb the complexity so the person using it doesn't have to.
 
-## What I'm building
+## Portfolio
 
 **[Atelier](https://github.com/yannickYamo/atelier)** is an agentic system that builds an AI skill from examples of the work you want: code reviews, financial reports, blog posts, contracts, support replies, whether the examples are yours, your team's, or a style you admire. Its agents propose the rules behind the examples with evidence, you approve them once, and every output is then checked against them: invented claims get cut rather than reworded, the skill installs a change only when it measures better, and it can never touch a rule you approved. I built it because of a failure I kept hitting, perfect context, still variance; the rules now live in a file outside the model, so when the model changes the rules don't, and every study is published, failures included.
 
