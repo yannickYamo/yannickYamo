@@ -8,17 +8,17 @@ The throughline: make the technology disappear, and absorb the complexity so the
 
 ## Portfolio
 
-**[Atelier](https://github.com/yannickYamo/atelier)** turns examples of the work you want into an AI skill, with rules you approve once that no model update can move. Every output is checked against them and anything invented is cut, so you get work in your voice, run after run, without reading each draft.
+✍️ **[Atelier](https://github.com/yannickYamo/atelier)** - [agentic systems, LLM evaluation, statistics, CLI] - turns examples of the work you want into an AI skill, with rules you approve once that no model update can move. Every output is checked against them and anything invented is cut, so you get work in your voice, run after run, without reading each draft.
 
-**[receipts](https://github.com/yannickYamo/receipts)** is a guard for AI agents that research the web: every claim carries a quote from a page that code fetched, or it gets cut. You can repeat what an agent tells you without redoing the research, and every cut is listed with its reason.
+🧾 **[receipts](https://github.com/yannickYamo/receipts)** - [AI safety, fact verification, evals, Python] - is a guard for AI agents that research the web: every claim carries a quote from a page that code fetched, or it gets cut. You can repeat what an agent tells you without redoing the research, and every cut is listed with its reason.
 
-**[depot-twin](https://github.com/yannickYamo/depot-twin)** is a digital twin of a robotaxi depot on a real East Oakland parcel that tells you how many vehicles one site's grid connection can carry, what breaks first as the fleet grows, and which charging rules get the most from its power.
+🚐 **[depot-twin](https://github.com/yannickYamo/depot-twin)** - [machine learning, fleet management, simulation, UI design] - is a digital twin of a robotaxi depot on a real East Oakland parcel that tells you how many vehicles one site's grid connection can carry, what breaks first as the fleet grows, and which charging rules get the most from its power.
 
-**[Epitaph](https://github.com/yannickYamo/epitaph)** is an art installation where a language model runs on a small computer that I take away from it piece by piece while it's still thinking, until it dies and a new one is born. You get to watch how much of what a mind says comes from the mind, and how much from the machine shrinking around it.
+🕯️ **[Epitaph](https://github.com/yannickYamo/epitaph)** - [generative art, edge AI, embedded systems, Raspberry Pi] - is an art installation where a language model runs on a small computer that I take away from it piece by piece while it's still thinking, until it dies and a new one is born. You get to watch how much of what a mind says comes from the mind, and how much from the machine shrinking around it.
 
-**[skills](https://github.com/yannickYamo/skills)** is a set of AI skills for Claude Code covering product marketing, strategy and go-to-market. You get an agent that does that work the way a senior operator would, from the first run.
+🧰 **[skills](https://github.com/yannickYamo/skills)** - [AI skills, product strategy, go-to-market, Claude Code] - is a set of AI skills for Claude Code covering product marketing, strategy and go-to-market. You get an agent that does that work the way a senior operator would, from the first run.
 
-**[StratOS](https://getstratos.ai)** helps early-stage teams decide who to sell to, what to say, what to charge and what to build next. Their agents read those decisions before building anything. Each decision spells out what would prove it wrong, and StratOS flags it when that happens.
+🧭 **[StratOS](https://getstratos.ai)** - [AI agents, product strategy, go-to-market, SaaS] - helps early-stage teams decide who to sell to, what to say, what to charge and what to build next. Their agents read those decisions before building anything. Each decision spells out what would prove it wrong, and StratOS flags it when that happens.
 
 ## How I think
 
