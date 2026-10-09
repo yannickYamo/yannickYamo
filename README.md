@@ -14,6 +14,8 @@ The throughline: make the technology disappear, and absorb the complexity so the
 
 🚐 **[depot-twin](https://github.com/yannickYamo/depot-twin)** - [machine learning, fleet management, simulation, UI design] - is a digital twin of a robotaxi depot on a real East Oakland parcel that tells you how many vehicles one site's grid connection can carry, what breaks first as the fleet grows, and which charging rules get the most from its power.
 
+⚡ **[MotionSim](https://github.com/yannickYamo/MotionSim)** - [power electronics, motor drives, simulation, datasheet extraction] - takes any vendor's power-transistor datasheet, your motor and your load, and tells you what the power stage loses and how hot it gets. You get a part choice you can check, with the equations and the data behind every number.
+
 🕯️ **[Epitaph](https://github.com/yannickYamo/epitaph)** - [generative art, edge AI, embedded systems, Raspberry Pi] - is an art installation where a language model runs on a small computer that I take away from it piece by piece while it's still thinking, until it dies and a new one is born. You get to watch how much of what a mind says comes from the mind, and how much from the machine shrinking around it.
 
 🧰 **[skills](https://github.com/yannickYamo/skills)** - [AI skills, product strategy, go-to-market, Claude Code] - is a set of AI skills for Claude Code covering product marketing, strategy and go-to-market. You get an agent that does that work the way a senior operator would, from the first run.
