@@ -8,7 +8,7 @@ The throughline: make the technology disappear, and absorb the complexity so the
 
 ## Portfolio
 
-✍️ **[Atelier](https://github.com/yannickYamo/atelier)** - [agentic systems, LLM evaluation, statistics, CLI] - turns examples of the work you want into an AI skill, with rules you approve once that no model update can move. Every output is checked against them and anything invented is cut, so you get work in your voice, run after run, without reading each draft.
+✍️ **[Atelier](https://github.com/yannickYamo/atelier)** - [agentic systems, LLM evaluation, developer tools, CLI] - learns how you write from the pieces you'd sign, including the habits you never wrote down, then writes new pieces that way and reads each one for anything made up or copied before you see it. Blog posts, product requirement docs, contracts, release notes: anything a team writes often and wants to sound like itself.
 
 🧾 **[receipts](https://github.com/yannickYamo/receipts)** - [AI safety, fact verification, evals, Python] - is a guard for AI agents that research the web: every claim carries a quote from a page that code fetched, or it gets cut. You can repeat what an agent tells you without redoing the research, and every cut is listed with its reason.
 
